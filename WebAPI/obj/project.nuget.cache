@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwYC1DVSl+OAhsntPQeunA4Y/bIhmDN11Qm896Tx4ipn5hIImdXuwT6spqATOCEo82aOZREacBNPqaN7zk8oSQ==",
+  "success": true,
+  "projectFilePath": "/home/oliveira/Área de Trabalho/Financial/WebAPI/Financial.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/oliveira/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/oliveira/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/oliveira/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/oliveira/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

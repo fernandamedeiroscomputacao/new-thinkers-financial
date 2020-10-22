@@ -70,23 +70,18 @@ namespace Financial.WebAPI.Controllers
             _logger = logger;
         }
 
-
-        /// <summary>
-        /// Lista de contas pessoa física
-        /// </summary>
-        /// <returns></returns>
         [HttpGet]
         public IEnumerable<ContaPF> GetAll()
         {
-            //var rng = new Random();
-            //return Enumerable.Range(1, 1).Select(index => new ContaPF //Arrow Function
-            //{
-            //    Agencia = rng.Next(1111, 9999),
-            //    Conta = rng.Next(111111, 999999),
-            //    TipoConta = TipoConta[rng.Next(TipoConta.Length)],
-            //    NomeCompleto = Nome[rng.Next(Nome.Length)],
-            //})
-            //.ToList();
+            var rng = new Random();
+            return Enumerable.Range(1, 1).Select(index => new ContaPF //Arrow Function
+            {
+                Agencia = rng.Next(1111, 9999),
+                Conta = rng.Next(111111, 999999),
+                TipoConta = TipoConta[rng.Next(TipoConta.Length)],
+                NomeCompleto = Nome[rng.Next(Nome.Length)],
+            })
+            .ToList();
 
             return GerarLista();
         }
@@ -102,8 +97,19 @@ namespace Financial.WebAPI.Controllers
 
         // POST api/<ContaPFController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public <List> Post([FromBody] string value)
         {
+         /*   var id = GerarLista().Count(); 
+            id++;
+            
+            var conta = GerarLista().Add({
+            conta.Id = id; 
+            conta.Agencia = contaPF.Agencia;
+            conta.Conta = contaPF.Conta;
+            conta.TipoConta = contaPF.TipoConta;
+            conta.NomeCompleto = contaPF.NomeCompleto});
+
+            return conta;*/
         }
 
         // PUT api/<ContaPFController>/5
@@ -122,8 +128,11 @@ namespace Financial.WebAPI.Controllers
 
         // DELETE api/<ContaPFController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public bool Delete(int id)
         {
+            var conta = GetById(id);
+            bool v = GerarLista().Remove(conta);
+            return v; 
         }
     }
 }

@@ -1,0 +1,58 @@
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/web.config
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.deps.json
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.runtimeconfig.json
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.runtimeconfig.dev.json
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.dll
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.pdb
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.xml
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/oliveira/squadra/Financial/WebAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.csprojAssemblyReference.cache
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.AssemblyInfoInputs.cache
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.AssemblyInfo.cs
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.csproj.CoreCompileInputs.cache
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.RazorTargetAssemblyInfo.cache
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.csproj.CopyComplete
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/Financial.WebAPI.StaticWebAssets.Manifest.cache
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/Financial.WebAPI.StaticWebAssets.xml
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.dll
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.xml
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.pdb
+/home/oliveira/squadra/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.genruntimeconfig.cache
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/web.config
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.deps.json
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.runtimeconfig.json
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.runtimeconfig.dev.json
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.dll
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.pdb
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Financial.WebAPI.xml
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/oliveira/Área de Trabalho/Financial/WebAPI/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.csprojAssemblyReference.cache
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.AssemblyInfoInputs.cache
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.AssemblyInfo.cs
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.csproj.CoreCompileInputs.cache
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.RazorTargetAssemblyInfo.cache
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.csproj.CopyComplete
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/Financial.WebAPI.StaticWebAssets.Manifest.cache
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/Financial.WebAPI.StaticWebAssets.xml
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.dll
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.xml
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.pdb
+/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/Debug/netcoreapp3.1/Financial.WebAPI.genruntimeconfig.cache
