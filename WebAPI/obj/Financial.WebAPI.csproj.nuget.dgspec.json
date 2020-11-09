@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/oliveira/Área de Trabalho/Financial/WebAPI/Financial.WebAPI.csproj": {}
+    "/home/oliveira/squadra/Financial/WebAPI/Financial.WebAPI.csproj": {}
   },
   "projects": {
-    "/home/oliveira/Área de Trabalho/Financial/WebAPI/Financial.WebAPI.csproj": {
+    "/home/oliveira/squadra/Financial/Application/Financial.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oliveira/Área de Trabalho/Financial/WebAPI/Financial.WebAPI.csproj",
-        "projectName": "Financial.WebAPI",
-        "projectPath": "/home/oliveira/Área de Trabalho/Financial/WebAPI/Financial.WebAPI.csproj",
+        "projectUniqueName": "/home/oliveira/squadra/Financial/Application/Financial.Application.csproj",
+        "projectName": "Financial.Application",
+        "projectPath": "/home/oliveira/squadra/Financial/Application/Financial.Application.csproj",
         "packagesPath": "/home/oliveira/.nuget/packages/",
-        "outputPath": "/home/oliveira/Área de Trabalho/Financial/WebAPI/obj/",
+        "outputPath": "/home/oliveira/squadra/Financial/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/oliveira/.nuget/NuGet/NuGet.Config"
@@ -36,6 +36,90 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/oliveira/squadra/Financial/WebAPI/Financial.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oliveira/squadra/Financial/WebAPI/Financial.WebAPI.csproj",
+        "projectName": "Financial.WebAPI",
+        "projectPath": "/home/oliveira/squadra/Financial/WebAPI/Financial.WebAPI.csproj",
+        "packagesPath": "/home/oliveira/.nuget/packages/",
+        "outputPath": "/home/oliveira/squadra/Financial/WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/oliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/oliveira/squadra/Financial/Application/Financial.Application.csproj": {
+                "projectPath": "/home/oliveira/squadra/Financial/Application/Financial.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.Razor": {
+              "target": "Package",
+              "version": "[3.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
               "version": "[5.6.3, )"

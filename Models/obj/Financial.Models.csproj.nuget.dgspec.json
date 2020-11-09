@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/oliveira/Área de Trabalho/Financial/Models/Financial.Models.csproj": {}
+    "/home/oliveira/squadra/Financial/Models/Financial.Models.csproj": {}
   },
   "projects": {
-    "/home/oliveira/Área de Trabalho/Financial/Models/Financial.Models.csproj": {
+    "/home/oliveira/squadra/Financial/Models/Financial.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oliveira/Área de Trabalho/Financial/Models/Financial.Models.csproj",
+        "projectUniqueName": "/home/oliveira/squadra/Financial/Models/Financial.Models.csproj",
         "projectName": "Financial.Models",
-        "projectPath": "/home/oliveira/Área de Trabalho/Financial/Models/Financial.Models.csproj",
+        "projectPath": "/home/oliveira/squadra/Financial/Models/Financial.Models.csproj",
         "packagesPath": "/home/oliveira/.nuget/packages/",
-        "outputPath": "/home/oliveira/Área de Trabalho/Financial/Models/obj/",
+        "outputPath": "/home/oliveira/squadra/Financial/Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/oliveira/.nuget/NuGet/NuGet.Config"

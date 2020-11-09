@@ -1,0 +1,9 @@
+/home/oliveira/squadra/Financial/Application/bin/Debug/netcoreapp3.1/Financial.Application.deps.json
+/home/oliveira/squadra/Financial/Application/bin/Debug/netcoreapp3.1/Financial.Application.dll
+/home/oliveira/squadra/Financial/Application/bin/Debug/netcoreapp3.1/Financial.Application.pdb
+/home/oliveira/squadra/Financial/Application/obj/Debug/netcoreapp3.1/Financial.Application.csprojAssemblyReference.cache
+/home/oliveira/squadra/Financial/Application/obj/Debug/netcoreapp3.1/Financial.Application.AssemblyInfoInputs.cache
+/home/oliveira/squadra/Financial/Application/obj/Debug/netcoreapp3.1/Financial.Application.AssemblyInfo.cs
+/home/oliveira/squadra/Financial/Application/obj/Debug/netcoreapp3.1/Financial.Application.csproj.CoreCompileInputs.cache
+/home/oliveira/squadra/Financial/Application/obj/Debug/netcoreapp3.1/Financial.Application.dll
+/home/oliveira/squadra/Financial/Application/obj/Debug/netcoreapp3.1/Financial.Application.pdb

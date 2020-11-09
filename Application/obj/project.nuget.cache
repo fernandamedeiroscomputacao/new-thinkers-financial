@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YcTQ+Xjist1jj+MyWV6H/EI4Gf4CH8Y422tcJZFDAYmorV0eueXxWO9K7buqNoXS2y6lIHNoEMJ7UslpD3OnqA==",
+  "success": true,
+  "projectFilePath": "/home/oliveira/squadra/Financial/Application/Financial.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/oliveira/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

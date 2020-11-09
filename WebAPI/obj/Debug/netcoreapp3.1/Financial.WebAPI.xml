@@ -4,5 +4,53 @@
         <name>Financial.WebAPI</name>
     </assembly>
     <members>
+        <member name="M:Financial.WebAPI.Controllers.ContaPFController.Get">
+            <summary>
+            Lista de contas pessoa física
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Financial.WebAPI.Controllers.ContaPFController.Get(System.Int32)">
+            <summary>
+            Filtro de lista de conta pessoa física, pelo id da conta
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Financial.WebAPI.Controllers.ContaPFController.Post(Financial.WebAPI.ContaPF)">
+            <summary>
+            Método que irá incrementar um registro na lista de contas
+            </summary>
+            <param name="contaPF"></param>
+        </member>
+        <member name="M:Financial.WebAPI.Controllers.ContaPFController.Put(System.Int32,Financial.WebAPI.ContaPF)">
+            <summary>
+            Método que atualiza todo o registro desejado
+            </summary>
+            <param name="id"></param>
+            <param name="contaPF"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Financial.WebAPI.Controllers.ContaPFController.Delete(System.Int32)">
+            <summary>
+            Método que remove um item da lista, filtrado pelo id.
+            </summary>
+            <param name="idParam"></param>
+            <returns></returns>        
+        </member>
+        <member name="M:Financial.WebAPI.Controllers.ContaPFController.GetQuantidade">
+            <summary>
+            Método ou endpoint que tem por finalidade retornar o totalizador de contas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Financial.WebAPI.Controllers.UsuarioController.Get(System.Int32)">
+            <summary>
+            Método utilizado para retornar os dados do usuário
+            </summary>
+            <remarks>Dados retornados, filtrado pelo id do usuário desejado</remarks>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
