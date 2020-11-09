@@ -95,23 +95,7 @@ namespace Financial.WebAPI.Controllers
                 .FirstOrDefault(conta => conta.Id == id);
         }
 
-        // POST api/<ContaPFController>
-        [HttpPost]
-        public <List> Post([FromBody] string value)
-        {
-         /*   var id = GerarLista().Count(); 
-            id++;
-            
-            var conta = GerarLista().Add({
-            conta.Id = id; 
-            conta.Agencia = contaPF.Agencia;
-            conta.Conta = contaPF.Conta;
-            conta.TipoConta = contaPF.TipoConta;
-            conta.NomeCompleto = contaPF.NomeCompleto});
-
-            return conta;*/
-        }
-
+        
         // PUT api/<ContaPFController>/5
         [HttpPut("{id}")]
         public ContaPF Put(int id, [FromBody] ContaPF contaPF)
@@ -126,13 +110,24 @@ namespace Financial.WebAPI.Controllers
             return conta;
         }
 
-        // DELETE api/<ContaPFController>/5
+        /// <summary>
+        /// Metódo  que remove um item da lista, filtrado pelo id
+        /// </summary>
+        /// <param name="id"></param>
+        /// // DELETE api/<ContaPFController>/5
         [HttpDelete("{id}")]
         public bool Delete(int id)
         {
+            var contas = GerarLista();
+            contas.RemoveAt(contas.IndexOf(contas.FirstOrDefault(conta => conta.Id.Equals(id)))); 
+            /*
             var conta = GetById(id);
             bool v = GerarLista().Remove(conta);
-            return v; 
+            return v; */
         }
+
+        #region Métodos Privados
+        
+        #endregion Métodos Privados 
     }
 }
